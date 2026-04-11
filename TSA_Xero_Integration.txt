@@ -1,0 +1,53 @@
+TOTAL SECURE AUTOMATION — XERO SYNC
+Not connected
+1
+Xero Credentials
+Your credentials are stored only in your browser session — never sent anywhere except directly to Xero.
+CLIENT ID
+CLIENT SECRET
+Connect to Xero
+Click to authenticate with your Xero account
+2
+Invoice Details
+INVOICE NUMBER
+REFERENCE / QUOTE NUMBER
+INVOICE DATE
+DUE DATE
+CURRENCY
+            USD — US Dollar
+            GBP — British Pound
+            XAF — CFA Franc
+            EUR — Euro
+            AED — UAE Dirham
+          
+STATUS
+            Draft
+            Submitted
+            Authorised
+          
+3
+Client (Contact)
+Enter the client name exactly as it appears in Xero. If the contact doesn't exist yet, it will be created automatically.
+CLIENT / COMPANY NAME
+EMAIL ADDRESS (OPTIONAL)
+4
+Line Items
+DESCRIPTION
+QTY
+UNIT PRICE
+AMOUNT
+TAX %
+
+
++ Add Line Item
+Subtotal
+0.00
+Tax
+0.00
+TOTAL
+0.00
+5
+Push to Xero
+Push Invoice to Xero
+Invoice will be created as a Draft in Xero for your review
+TSA Xero Integration Tool — Private use only — Total Secure Automation FZ-LLC
